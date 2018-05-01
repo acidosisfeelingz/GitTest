@@ -1,0 +1,38 @@
+.slider .btn {
+    margin-top: 20px
+}
+
+.section-search input {
+    padding: 2px !important;
+    font-size:  18px !important;
+    width: 50% !important;
+    border: #f4f4f4 4px solid !important 
+
+}
+.section .section-search {
+    padding: 100px;
+
+
+}
+.h3 .title {
+    padding: 0px;
+
+}
+.autocomplete-content {
+ position: absolute;   
+ width: 100%;
+ text-align: center;
+
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+
+}
+.section-contact h5 {
+    margin-bottom: 30px;
+}
+footer .section {
+    margin: 5px 10px;
+    padding: 50%;
+}
